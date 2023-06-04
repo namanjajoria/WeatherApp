@@ -1,0 +1,14 @@
+.box1{
+    height: 50vh;
+    background-image: url('spiderman.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+.box2{
+    height: 50vh;
+    background-image: url('miles.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}

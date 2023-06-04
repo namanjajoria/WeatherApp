@@ -1,0 +1,11 @@
+.button:focus{
+    box-shadow: none;
+}
+.image{
+  /* background-image: linear-gradient(to right,red); */
+  background-color: aqua;
+  border-radius: 10px;
+}
+.win{
+    background-image:linear-gradient(to right,red,black);
+}

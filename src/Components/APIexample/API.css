@@ -1,0 +1,31 @@
+.box{
+    width:15vw;
+    height:5vh;
+    border-radius: 0%;
+}
+.box4{
+    width: 40vw;
+    height:5.6vh;
+    border-radius: 0%;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.box3{
+    /* background-color: bisque; */
+    height:95vh;
+    box-shadow: 0px 0px 20px black;
+    cursor: pointer;
+}
+.button{
+    border-radius: 0%;
+    width:8vw;
+    height:5vh;
+}
+.box6{
+    width:100vw;
+    cursor:pointer;
+}
+.box2{
+    background-color: antiquewhite;
+}
