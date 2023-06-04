@@ -439,8 +439,8 @@ import React from 'react'
 // import Main from './Components/APIexample/Main'
 // import Reducer from './Components/Usereducer example/Reducer'
 // import Navbar from './Components/Props1/Navbar'
-import Todolist from './Components/TodolistFolder/Todolist'
-// import Weather from './Components/WeatherApp/Weather';
+// import Todolist from './Components/TodolistFolder/Todolist'
+import Weather from './Components/WeatherApp/Weather';
 // import File1 from './Components/Props example/File1';
 function App() {
   return (
@@ -448,8 +448,8 @@ function App() {
       {/* <Main/> */}
       {/* <Reducer/> */}
       {/* <Navbar title="State Bank of India" home="Home" about="About" contact="Contact"/> */}
-      <Todolist/>
-      {/* <Weather/> */}
+      {/* <Todolist/> */}
+      <Weather/>
       {/* <File1/> */}
 
       
